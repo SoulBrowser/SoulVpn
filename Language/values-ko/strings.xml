@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Soul VPN</string>
+    <string name="apply">적용</string>
+    <string name="cancel">취소</string>
+    <string name="vpn_active">VPN 활성화됨</string>
+    <string name="vpn_deactive">VPN 비활성화됨</string>
+    <string name="server">서버</string>
+    <string name="server_user">직접 입력</string>
+    <string name="input_url">URL 입력</string>
+    <string name="invalid_url">유효하지 않은 URL</string>
+    <string name="only_https">https만 지원됩니다.</string>
+    <string name="connect_fail">연결 실패</string>
+    <string name="not_supported">지원되지 않음</string>
+    <string name="vpn_exclude">제외할 앱</string>
+</resources>

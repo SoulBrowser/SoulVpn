@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Soul VPN</string>
+    <string name="apply">應用</string>
+    <string name="cancel">取消</string>
+    <string name="vpn_active">VPN已激活</string>
+    <string name="vpn_deactive">VPN已停用</string>
+    <string name="server">服務器</string>
+    <string name="server_user">直接輸入</string>
+    <string name="input_url">輸入URL</string>
+    <string name="invalid_url">網址無效</string>
+    <string name="only_https">僅支持https</string>
+    <string name="connect_fail">連接失敗</string>
+    <string name="not_supported">不支持</string>
+    <string name="vpn_exclude">排除的應用</string>
+</resources>

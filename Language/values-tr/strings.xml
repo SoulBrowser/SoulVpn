@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Soul VPN</string>
+    <string name="apply">Uygulama</string>
+    <string name="cancel">İptal etmek</string>
+    <string name="vpn_active">VPN etkin</string>
+    <string name="vpn_deactive">VPN devre dışı</string>
+    <string name="server">Sunucu</string>
+    <string name="server_user">Doğrudan giriş</string>
+    <string name="input_url">URL\'yi girin</string>
+    <string name="invalid_url">Geçersiz URL</string>
+    <string name="only_https">Sadece https desteklenir.</string>
+    <string name="connect_fail">Bağlantı kurulamadı</string>
+    <string name="not_supported">Desteklenmiyor</string>
+    <string name="vpn_exclude">Dışlamak</string>
+</resources>

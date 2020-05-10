@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Soul VPN</string>
+    <string name="apply">適用</string>
+    <string name="cancel">キャンセル</string>
+    <string name="vpn_active">VPNが有効になっています</string>
+    <string name="vpn_deactive">VPNが無効になりました</string>
+    <string name="server">サーバー</string>
+    <string name="server_user">直接入力</string>
+    <string name="input_url">URLを入力し</string>
+    <string name="invalid_url">無効なURL</string>
+    <string name="only_https">httpsのみがサポートされます.</string>
+    <string name="connect_fail">接続に失敗し</string>
+    <string name="not_supported">サポートされていません</string>
+    <string name="vpn_exclude">除外する</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Soul VPN</string>
+    <string name="apply">Aplicar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="vpn_active">VPN está ativada</string>
+    <string name="vpn_deactive">VPN está desativada</string>
+    <string name="server">Servidor</string>
+    <string name="server_user">Entrada direta</string>
+    <string name="input_url">Entrada URL</string>
+    <string name="invalid_url">URL inválida</string>
+    <string name="only_https">Apenas https é suportado.</string>
+    <string name="connect_fail">Falha de conexão</string>
+    <string name="not_supported">Não suportado</string>
+    <string name="vpn_exclude">Excluir</string>
+</resources>

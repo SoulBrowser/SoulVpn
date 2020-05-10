@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Soul VPN</string>
+    <string name="apply">Terapkan</string>
+    <string name="cancel">Membatalkan</string>
+    <string name="vpn_active">VPN diaktifkan</string>
+    <string name="vpn_deactive">VPN dinonaktifkan</string>
+    <string name="server">Server</string>
+    <string name="server_user">Masukan langsung</string>
+    <string name="input_url">Masukkan URL</string>
+    <string name="invalid_url">URL tidak valid</string>
+    <string name="only_https">Hanya https yang didukung.</string>
+    <string name="connect_fail">Koneksi gagal</string>
+    <string name="not_supported">Tidak didukung</string>
+    <string name="vpn_exclude">Mengecualikan</string>
+</resources>

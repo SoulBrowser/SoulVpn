@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Soul VPN</string>
+    <string name="apply">Áp dụng</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="vpn_active">VPN được kích hoạt</string>
+    <string name="vpn_deactive">VPN bị vô hiệu hóa</string>
+    <string name="server">Máy chủ</string>
+    <string name="server_user">Đầu vào trực tiếp</string>
+    <string name="input_url">Nhập URL</string>
+    <string name="invalid_url">URL không hợp lệ</string>
+    <string name="only_https">Chỉ https được hỗ trợ.</string>
+    <string name="connect_fail">Lỗi kết nối</string>
+    <string name="not_supported">Không được hỗ trợ</string>
+    <string name="vpn_exclude">Loại trừ</string>
+</resources>

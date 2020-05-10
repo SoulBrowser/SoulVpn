@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Soul VPN</string>
+    <string name="apply">Aplica</string>
+    <string name="cancel">Anulare</string>
+    <string name="vpn_active">VPN este activat</string>
+    <string name="vpn_deactive">VPN este dezactivat</string>
+    <string name="server">Server</string>
+    <string name="server_user">Intrare directă</string>
+    <string name="input_url">Introdu URL</string>
+    <string name="invalid_url">URL invalid</string>
+    <string name="only_https">Doar https este acceptat.</string>
+    <string name="connect_fail">Eșec de conectare</string>
+    <string name="not_supported">Nu este acceptat</string>
+    <string name="vpn_exclude">Aplicații de exclus</string>
+</resources>
