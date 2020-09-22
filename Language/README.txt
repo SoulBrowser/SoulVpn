@@ -20,20 +20,3 @@ values-vi        Vietnamese
 values-zh-rCN    Chinese Simplified
 values-zh-rTW    Chinese Traditional
 values           English
-
-
-⭐ Code definition
-
-&#160;    : First space
-&#8230;   : ... (3 dots)
-&#60;     : <
-&#62;     : >
-\n        : New line
-%s        : Variable text
-%d        : Variable number
-
-ex)
-<string name="item">&#160;item</string>
-<string name="loading">Loading&#8230;</string>
-<string name="exit_noti_1">&#60; Clear on exit &#62;\n%s deleted.</string>
-<string name="file_added">%d files added</string>
