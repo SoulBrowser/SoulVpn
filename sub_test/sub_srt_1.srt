@@ -1,4 +1,6 @@
-﻿1
+﻿WEBVTT
+
+1
 00:00:00.500 --> 00:00:04.000
 Aprendi a me virar e você voltou
 
