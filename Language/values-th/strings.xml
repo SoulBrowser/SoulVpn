@@ -7,10 +7,6 @@
     <string name="vpn_active">เปิดใช้งาน VPN</string>
     <string name="vpn_deactive">ปิดการใช้งาน VPN</string>
     <string name="server">เซิร์ฟเวอร์</string>
-    <string name="server_user">ป้อนข้อมูลโดยตรง</string>
-    <string name="input_url">ป้อน URL</string>
-    <string name="invalid_url">URL ไม่ถูกต้อง</string>
-    <string name="only_https">รองรับ https เท่านั้น</string>
     <string name="connect_fail">การเชื่อมต่อล้มเหลว</string>
     <string name="not_supported">ไม่รองรับ</string>
     <string name="vpn_exclude">ไม่รวม</string>

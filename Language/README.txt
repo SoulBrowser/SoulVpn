@@ -11,6 +11,7 @@ values-it        Italian
 values-ja        Japanese
 values-ko        Korean
 values-pl        Poland
+values-pt-rBR    Brazilian Portuguese
 values-pt        Portuguese
 values-ro        Romania
 values-ru        Russian

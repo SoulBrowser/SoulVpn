@@ -7,10 +7,6 @@
     <string name="vpn_active">VPN активирован</string>
     <string name="vpn_deactive">VPN деактивирован</string>
     <string name="server">Сервер</string>
-    <string name="server_user">Прямой ввод</string>
-    <string name="input_url">Введите URL</string>
-    <string name="invalid_url">Недопустимый URL</string>
-    <string name="only_https">Поддерживается только https.</string>
     <string name="connect_fail">Ошибка подключения</string>
     <string name="not_supported">Не поддерживается</string>
     <string name="vpn_exclude">Исключать</string>

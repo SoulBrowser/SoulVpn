@@ -7,10 +7,6 @@
     <string name="vpn_active">VPN jest aktywowany</string>
     <string name="vpn_deactive">VPN jest wyłączony</string>
     <string name="server">Serwer</string>
-    <string name="server_user">Bezpośrednie wprowadzanie</string>
-    <string name="input_url">Wpisz adres URL</string>
-    <string name="invalid_url">Nieprawidłowy URL</string>
-    <string name="only_https">Obsługiwany jest tylko protokół https.</string>
     <string name="connect_fail">Błąd połączenia</string>
     <string name="not_supported">Nie obsługiwane</string>
     <string name="vpn_exclude">Aplikacje do wykluczenia</string>
